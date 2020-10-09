@@ -1,0 +1,83 @@
+
+.places {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto;
+  max-width: 984px;
+  margin-bottom: 92px;
+}
+
+@media (max-width: 1024px){
+  .places {
+    max-width: 928px;
+  }
+}
+
+@media (max-width: 949px){
+  .places {
+    max-width: 877px;
+  }
+}
+
+@media (max-width: 904px){
+  .places {
+    max-width: 811px;
+  }
+}
+
+@media (max-width: 830px){
+  .places {
+    max-width: 760px;
+  }
+}
+
+
+@media (max-width: 770px){
+  .places {
+    max-width: 721px;
+  }
+}
+
+@media (max-width: 768px){
+  .places {
+    max-width: 720px;
+  }
+}
+
+@media (max-width: 734px){
+  .places {
+    max-width: 664px;
+  }
+}
+
+@media (max-width: 677px){
+  .places {
+    max-width: 631px;
+  }
+}
+
+@media (max-width: 651px){
+  .places {
+    max-width: 612px;
+  }
+}
+
+@media (max-width: 620px){
+  .places {
+    max-width: 579px;
+  }
+}
+
+@media (max-width: 602px){
+  .places {
+    max-width: 547px;
+  }
+}
+
+@media (max-width: 320px){
+  .places {
+    max-width: 320px;
+  }
+}
+

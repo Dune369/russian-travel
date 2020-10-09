@@ -1,0 +1,29 @@
+.footer__link {
+  padding: 0;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px;
+  text-align: left;
+  color: white;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+
+@media (max-width: 698px){
+  .footer__link {
+    margin-bottom: 32px;
+  }
+}
+
+@media (max-width: 320px){
+  .footer__link {
+    font-size: 24px;
+    line-height: 24px;
+  }
+
+  .footer__link:last-child {
+    margin-bottom: 48px;
+  }
+}

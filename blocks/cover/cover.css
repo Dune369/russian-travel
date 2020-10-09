@@ -1,0 +1,19 @@
+.cover {
+  width: 82%;
+  margin: 0 auto;
+  position: relative;
+  margin-bottom: 92px;
+
+}
+
+@media (max-width: 1024px){
+  .cover {
+    width: 100%;
+  }
+}
+
+@media (max-width: 320px){
+  .cover {
+    margin-bottom: 97px;
+  }
+}

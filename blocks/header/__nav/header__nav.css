@@ -1,0 +1,5 @@
+@media (max-width: 334px){
+  .header__nav {
+    align-self: flex-end;
+  }
+}
