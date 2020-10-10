@@ -73,7 +73,8 @@
 @media (max-width: 320px){
   .cover__subtitle {
     width: 85%;
-    left: 8%;
+    left: 9%;
+    top: 122px;
     font-size: 14px;
     letter-spacing: 0em;
   }

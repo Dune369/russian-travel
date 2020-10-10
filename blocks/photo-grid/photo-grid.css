@@ -54,5 +54,6 @@
     grid-template-columns: repeat(auto-fill, minmax(288px, 1fr));
     width: 90%;
     grid-gap: 12px;
+    margin-bottom: 64px;
   }
 }
