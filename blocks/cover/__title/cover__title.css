@@ -1,20 +1,20 @@
 .cover__title {
- position: absolute;
- width: 49%;
- margin-top: 0;
- top: 31.11%;
- left: 27.35%;
- z-index: 3;
- font-family: 'Inter', Arial, sans-serif;
- font-size: 72px;
- font-style: normal;
- font-weight: 900;
- line-height: 76px;
- letter-spacing: 0em;
- text-align: center;
- text-decoration: none;
- color: white;
-}
+  position: absolute;
+  width: 46%;
+  margin-top: 0;
+  top: 34.11%;
+  left: 27.35%;
+  z-index: 3;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 76px;
+  letter-spacing: 0em;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+ }
+
 
 @media (max-width: 1256px){
   .cover__title {
@@ -49,6 +49,7 @@
   .cover__title {
     width: 50%;
     left: 25%;
+    top: 32%;
   }
 }
 
@@ -78,6 +79,7 @@
 @media (max-width: 768px){
   .cover__title {
     width: 70%;
+    left: 15%;
   }
 }
 
@@ -139,8 +141,8 @@
 @media (max-width: 320px){
   .cover__title {
     width: 77%;
-    top: 20%;
-    left: 12%;
+    top: 17%;
+    left: 10%;
     font-size: 32px;
     line-height: 35px;
   }
