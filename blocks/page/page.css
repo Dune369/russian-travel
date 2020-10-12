@@ -6,7 +6,6 @@
   margin: 0 auto;
   color: #fff;
   display: flex;
-  min-height: 100vh;
   flex-direction: column;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
