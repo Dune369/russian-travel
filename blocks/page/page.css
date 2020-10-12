@@ -1,6 +1,9 @@
 .page {
   font-family: 'Inter', Arial, sans-serif;
-  background-color: #2A2C2F;
+  min-width: 320px;
+  max-width: 1184px;
+  min-height: 100vh;
+  margin: 0 auto;
   color: #fff;
   display: flex;
   min-height: 100vh;
@@ -11,5 +14,7 @@
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
 }
+
+
 
 

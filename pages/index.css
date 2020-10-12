@@ -42,7 +42,6 @@
 
 @import url('../blocks/cover/cover.css');
 @import url('../blocks/cover/__backround/cover__backround.css');
-@import url('../blocks/cover/__overlay/cover__overlay.css');
 @import url('../blocks/cover/__subtitle/cover__subtitle.css');
 @import url('../blocks/cover/__title/cover__title.css');
 
@@ -58,5 +57,6 @@
 
 @import url('../blocks/page/page.css');
 
+@import url('../blocks/body/body.css');
 
 
